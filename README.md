@@ -2,7 +2,7 @@
 
 A beginner-friendly semantic HTML5 webpage built as part of the **freeCodeCamp Responsive Web Design Certification**.
 
-🔗 **[Live Demo](https://<your-username>.github.io/<repo-name>/)**
+🔗 **[Live Demo]([https://<your-username>.github.io/<repo-name>/](https://francisconguis.github.io/cat-photo-app/))**
 
 ---
 
